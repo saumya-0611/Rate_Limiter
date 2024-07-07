@@ -1,0 +1,14 @@
+{
+  "name": "apirl",
+  "version": "1.0.0",
+  "description": "API Rate limiter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saumya",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
